@@ -34,7 +34,6 @@ const Import: React.FC = () => {
   }
 
   function submitFile(files: File[]): void {
-    console.log('submitFile function was used');
     console.log(files);
 
     const uploadedFile: FileProps[] = files.map(file => {

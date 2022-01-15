@@ -6,7 +6,7 @@
     "axios": "^0.19.2",
     "filesize": "^6.1.0",
     "history": "^4.10.1",
-    "node-forge": "0.10.0",
+    "node-forge": "1.0.0",
     "object-path": "0.11.5",
     "polished": "^3.5.2",
     "react": "^16.13.1",
